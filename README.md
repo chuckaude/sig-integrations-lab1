@@ -1,3 +1,5 @@
+**Notice** The rebranded and updated version of this lab is available at https://github.com/blackduck-se/bd-integrations-lab1
+
 # SIG Integration Lab 1
 The goal of this lab is to provide hands on experience configuring a Polaris workflow in GitHub and viewing the results. As part of the lab, we will:
 - execute a full scan, viewing the results in the Polaris UI
